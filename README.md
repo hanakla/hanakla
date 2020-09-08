@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Hanakla. Hanakla are Frontend engineer, hobby illustrator, hobby DJ.  
+Hi, I'm Hanakla. I'm a Frontend engineer, hobby illustrator, hobby DJ.  
 Creator of Flux framework [Fluer](https://github.com/fleur-js/fleur) and Web-tech based VFX app [Delir](https://delir.studio)
 
 Skills⚡: TypeScript / JavaScript / React / CSS / Electron / Node.js / Ruby on Rails / PHP
