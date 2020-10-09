@@ -7,7 +7,7 @@ Skills⚡: TypeScript / JavaScript / React / CSS / Electron / Node.js / Ruby on 
 
 ### Contact
 
-Web: [https://hanak.la](https://hanak.la)
+Web: [https://hanak.la](https://hanak.la)  
 Twitter: [https://twitter.com/hanak1a_](https://twitter.com/hanak1a_)  
 Qiita: https://qiita.com/hanakla  
 pixiv: https://pixiv.me/hanak1a
