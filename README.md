@@ -5,7 +5,7 @@ Creator of Flux framework [Fluer](https://github.com/fleur-js/fleur) and Web-tec
 
 Skills⚡: TypeScript / JavaScript / React / CSS / Electron / Node.js / Ruby on Rails / PHP
 
-Supervision: [fleur-js](https://github.com/fleur-js)
+Supervision: [fleur-js](https://github.com/fleur-js), [delirvfx](https://github.com/delirvfx)
 
 ### Contact
 
