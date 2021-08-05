@@ -16,5 +16,5 @@ Supervision: [fleur-js](https://github.com/fleur-js), [delirvfx](https://github.
 🔠 Zenn: [https://zenn.dev/hanak1a](https://zenn.dev/hanak1a)  
 ⚒️ Qiita: https://qiita.com/hanakla  
 🎨 pixiv: https://pixiv.me/hanak1a  
-🎶 SoundCloud: https://soundcloud.com/hanakla
+🎶 SoundCloud: https://soundcloud.com/hanakla  
 🔊 MixCloud: https://www.mixcloud.com/hanakla
