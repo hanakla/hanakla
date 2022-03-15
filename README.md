@@ -1,6 +1,6 @@
-### Hi there 👋
+### I AM Hanakla❗
 
-Hi, I'm Hanakla. I'm a Frontend engineer, Illustrator, DJ, Music Remixer.  
+Frontend engineer, Illustrator, DJ, Music Remixer.  
 Creator of Flux framework [Fleur](https://github.com/fleur-js/fleur) and Web-tech based VFX app [Delir](https://delir.studio)
 
 Skills⚡:  
