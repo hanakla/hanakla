@@ -1,11 +1,11 @@
 ### I AM Hanakla❗
 
-Frontend engineer, Illustrator, DJ, Music Remixer.  
+Frontend engineer, Illustrator, DJ, Music Remixer lives on Japan.
 Creator of Flux framework [Fleur](https://github.com/fleur-js/fleur) and Web-tech based VFX app [Delir](https://delir.studio)
 
 Skills⚡:  
 TypeScript / JavaScript / React / CSS / Electron / Next.js / Node.js / Ruby on Rails / PHP  
-And beginner of ギャル
+And beginner of ギャル / 日本語
 
 Supervision: [fleur-js](https://github.com/fleur-js), [delirvfx](https://github.com/delirvfx)
 
