@@ -9,6 +9,17 @@ And beginner of ギャル
 
 Supervision: [fleur-js](https://github.com/fleur-js), [delirvfx](https://github.com/delirvfx)
 
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=hanakla&layout=compact" alt="Github Readme Stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanakla&langs_count=5&layout=compact" alt="Github Readme Stats" />
+</a>
+</div>
+
+
 ### Contact
 
 🌐 Web: [https://hanak.la](https://hanak.la)  
