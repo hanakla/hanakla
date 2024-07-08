@@ -1,6 +1,6 @@
 ### I AM Hanakla❗
 
-Frontend engineer, Illustrator, DJ, Music Remixer lives on Japan.  
+Frontend engineer. Amature of Cartoonist, Illustrator, DJ, Music Remixer lives in Japan.  
 Creator of Flux framework [Fleur](https://github.com/fleur-js/fleur) and Web-tech based VFX app [Delir](https://delir.studio)
 
 Skills⚡:  
@@ -26,6 +26,7 @@ Supervision: [fleur-js](https://github.com/fleur-js), [delirvfx](https://github.
 🐦 Twitter: [https://twitter.com/hanak1a_](https://twitter.com/hanak1a_)  
 🔠 Zenn: [https://zenn.dev/hanak1a](https://zenn.dev/hanak1a)  
 ⚒️ Qiita: https://qiita.com/hanakla  
+🛍️ BOOTH(Shop): Comic and Illustration in https://hanak1a.booth.pm/  
 🎨 pixiv: https://pixiv.me/hanak1a  
 🎶 SoundCloud: https://soundcloud.com/hanakla  
 🔊 MixCloud: https://www.mixcloud.com/hanakla
