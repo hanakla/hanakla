@@ -1,9 +1,9 @@
-### I AM Hanakla❗
+## I AM Hanakla❗
 
 Frontend engineer. Amature of Cartoonist, Illustrator, DJ, Music Remixer lives in Japan.  
 Creator of Flux framework [Fleur](https://github.com/fleur-js/fleur) and Web-tech based VFX app [Delir](https://delir.studio)
 
-Skills⚡:  
+### ⚡⚡ Skills ⚡⚡
 TypeScript / JavaScript / React / CSS / Electron / Next.js / Node.js / Ruby on Rails / PHP / 日本語  
 And beginner of ギャル
 
@@ -20,7 +20,15 @@ Supervision: [fleur-js](https://github.com/fleur-js), [delirvfx](https://github.
 </div>
 
 
-### Contact
+### ✨ Recent works ✨
+
+- **[micetrap](https://github.com/hanakla/micetrap)**
+  Fork of [mousetrap-ts](https://github.com/JonWallsten/mousetrap-ts). Simple library for handling keyboard shortcuts in TypeScript
+- **[Harnica](https://github.com/hanakla/harnica)**
+  Music chord editor, Harnica makes you Composer, It's chord text to midi, listening preview, and suggest related chords.
+
+
+### 🫰 Contact 🫰
 
 🌐 Web: [https://hanak.la](https://hanak.la)  
 🐦 Twitter: [https://twitter.com/hanak1a_](https://twitter.com/hanak1a_)  
