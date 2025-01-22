@@ -20,7 +20,7 @@ Supervision: [fleur-js](https://github.com/fleur-js), [delirvfx](https://github.
 </div>
 
 
-### ✨ Recent works ✨
+### ✨ Recently works ✨
 
 - **[micetrap](https://github.com/hanakla/micetrap)**
   Fork of [mousetrap-ts](https://github.com/JonWallsten/mousetrap-ts). Simple library for handling keyboard shortcuts in TypeScript
