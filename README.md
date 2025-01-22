@@ -22,9 +22,9 @@ Supervision: [fleur-js](https://github.com/fleur-js), [delirvfx](https://github.
 
 ### ✨ Recently works ✨
 
-- **[micetrap](https://github.com/hanakla/micetrap)**
+- **[micetrap](https://github.com/hanakla/micetrap)**  
   Fork of [mousetrap-ts](https://github.com/JonWallsten/mousetrap-ts). Simple library for handling keyboard shortcuts in TypeScript
-- **[Harnica](https://github.com/hanakla/harnica)**
+- **[Harnica](https://github.com/hanakla/harnica)**  
   Music chord editor, Harnica makes you Composer, It's chord text to midi, listening preview, and suggest related chords.
 
 
