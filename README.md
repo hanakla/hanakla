@@ -4,7 +4,7 @@ Frontend engineer. Hobby Illustrator lives in Japan.
 Creator of Flux framework [Fleur](https://github.com/fleur-js/fleur) and Web-tech based VFX app [Delir](https://delir.studio)
 
 ### ⚡⚡ Skills ⚡⚡
-✨ **Stronger**: TypeScript / JavaScript / React / CSS / Electron / Next.js / Node.js / Japanese  
+💪 **Stronger**: TypeScript / JavaScript / React / CSS / Electron / Next.js / Node.js / Japanese  
 🗿 **Able**: Deno / Ruby on Rails / PHP / Claude Code  
 👶 **Beginner**: Rust / C++ / ギャル
 
