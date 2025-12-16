@@ -1,11 +1,12 @@
 ## I AM Hanakla❗
 
-Frontend engineer. Hobby Cartoonist, Illustrator lives in Japan.  
+Frontend engineer. Hobby Illustrator lives in Japan.  
 Creator of Flux framework [Fleur](https://github.com/fleur-js/fleur) and Web-tech based VFX app [Delir](https://delir.studio)
 
 ### ⚡⚡ Skills ⚡⚡
-TypeScript / JavaScript / React / CSS / Electron / Next.js / Node.js / Ruby on Rails / PHP / 日本語  
-And beginner of ギャル
+✨ **Stronger**: TypeScript / JavaScript / React / CSS / Electron / Next.js / Node.js / Japanese  
+🗿 **Able**: Deno / Ruby on Rails / PHP / Claude Code  
+👶 **Beginner**: Rust / C++ / ギャル
 
 Supervision: [fleur-js](https://github.com/fleur-js), [delirvfx](https://github.com/delirvfx)
 
