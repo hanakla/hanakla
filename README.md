@@ -1,14 +1,13 @@
 ## I AM Hanakla❗
 
 Frontend engineer. Hobby Illustrator lives in Japan.  
-Creator of Flux framework [Fleur](https://github.com/fleur-js/fleur) and Web-tech based VFX app [Delir](https://delir.studio)
 
 ### ⚡⚡ Skills ⚡⚡
 💪 **Stronger**: TypeScript / JavaScript / React / CSS / Electron / Next.js / Node.js / Japanese  
 🗿 **Able**: Deno / Ruby on Rails / PHP / Claude Code  
 👶 **Beginner**: Rust / C++ / ギャル
 
-Supervision: [fleur-js](https://github.com/fleur-js), [delirvfx](https://github.com/delirvfx)
+Supervision: [Paplico](https://github.com/hanakla/paplico), [fleur-js](https://github.com/fleur-js), [delirvfx](https://github.com/delirvfx)
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -23,6 +22,8 @@ Supervision: [fleur-js](https://github.com/fleur-js), [delirvfx](https://github.
 
 ### ✨ Recently works ✨
 
+- **[Paplico](https://github.com/hanakla/paplico)**  
+  WebGPU-based Vector drawing app, with-in Raster brush and modern filters
 - **[micetrap](https://github.com/hanakla/micetrap)**  
   Fork of [mousetrap-ts](https://github.com/JonWallsten/mousetrap-ts). Simple library for handling keyboard shortcuts in TypeScript
 - **[Harnica](https://github.com/hanakla/harnica)**  
